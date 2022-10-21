@@ -1,0 +1,184 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "username": "arun",
+      "name": "captain",
+      "phone": "83465483",
+      "website": "www.google.com",
+      "address": {
+        "street": "gempagowda nagar",
+        "suite": "204,near police station",
+        "city": "bangalore",
+        "zipcode": "622402"
+      },
+      "company": {
+        "name": "captain"
+      },
+      "avatar": "https://avatars.dicebear.com/v2/avataaars/arun.svg?options[mood][]=happy",
+      "email": "captain@gmail.com"
+    },
+    {
+      "id": 2,
+      "username": "ravi",
+      "name": "hulk",
+      "phone": "398843659",
+      "website": "www.google.com",
+      "address": {
+        "street": "vijay nagar",
+        "suite": "near metro station",
+        "city": "bangalore",
+        "zipcode": "622402"
+      },
+      "company": {
+        "name": "captain"
+      },
+      "avatar": "https://avatars.dicebear.com/v2/avataaars/ravi.svg?options[mood][]=happy",
+      "email": "loki@gmail.com"
+    },
+    {
+      "id": 3,
+      "username": "vijay",
+      "name": "spiderman",
+      "phone": "8328745",
+      "website": "www.google.com",
+      "address": {
+        "street": "vijay nagar",
+        "suite": "railway station",
+        "city": "bangalore",
+        "zipcode": "622402"
+      },
+      "company": {
+        "name": "captain"
+      },
+      "avatar": "https://avatars.dicebear.com/v2/avataaars/spiderman.svg?options[mood][]=happy",
+      "email": "spiderman@gmail.com"
+    },
+    {
+      "id": 4,
+      "username": "pavan",
+      "name": "thanos",
+      "phone": "3873765",
+      "website": "www.google.com",
+      "address": {
+        "street": " shivaji nagar",
+        "suite": "plice station",
+        "city": "bangalore",
+        "zipcode": "622402"
+      },
+      "company": {
+        "name": "captain"
+      },
+      "avatar": "https://avatars.dicebear.com/v2/avataaars/thanos.svg?options[mood][]=happy",
+      "email": "thanos@gmail.com"
+    },
+    {
+      "id": 5,
+      "username": "pooja",
+      "name": "scarlet witch",
+      "phone": "328435",
+      "website": "www.google.com",
+      "address": {
+        "street": "soyh end circle",
+        "suite": "near indiqube ",
+        "city": "bangalore",
+        "zipcode": "622402"
+      },
+      "company": {
+        "name": "captain"
+      },
+      "avatar": "https://avatars.dicebear.com/v2/avataaars/scarletwitch.svg?options[mood][]=happy",
+      "email": "scarlet@gmail.com"
+    },
+    {
+      "id": 6,
+      "username": "vinay kumar",
+      "name": "hawk eye",
+      "phone": "32874832",
+      "website": "www.google.com",
+      "address": {
+        "street": "dottakallasantra",
+        "suite": "near military base",
+        "city": "bangalore",
+        "zipcode": "622402"
+      },
+      "company": {
+        "name": "captain"
+      },
+      "avatar": "https://avatars.dicebear.com/v2/avataaars/vinay kumar.svg?options[mood][]=happy",
+      "email": "hawkeye@gmail.com"
+    },
+    {
+      "id": 7,
+      "username": "rinki",
+      "name": "black widow",
+      "phone": "98435848",
+      "website": "www.google.com",
+      "address": {
+        "street": "near pochinki",
+        "suite": "near indiqube ",
+        "city": "bangalore",
+        "zipcode": "622402"
+      },
+      "company": {
+        "name": "captain"
+      },
+      "avatar": "https://avatars.dicebear.com/v2/avataaars/blackwidow.svg?options[mood][]=happy",
+      "email": "blackwidow@gmail.com"
+    },
+    {
+      "id": 8,
+      "username": "pramodh",
+      "name": "Docter strange",
+      "phone": "945832862",
+      "website": "www.google.com",
+      "address": {
+        "street": "near hospital appartments",
+        "suite": "novaconainers",
+        "city": "bangalore",
+        "zipcode": "622402"
+      },
+      "company": {
+        "name": "captain"
+      },
+      "avatar": "https://avatars.dicebear.com/v2/avataaars/docterstrange.svg?options[mood][]=happy",
+      "email": "docterstrange@gmail.com"
+    },
+    {
+      "id": 9,
+      "username": "shubam naik",
+      "name": "thor",
+      "phone": "32958458",
+      "website": "www.google.com",
+      "address": {
+        "street": "near myltapower",
+        "suite": "way to military base",
+        "city": "bangalore",
+        "zipcode": "622402"
+      },
+      "company": {
+        "name": "captain"
+      },
+      "avatar": "https://avatars.dicebear.com/v2/avataaars/shubam naik.svg?options[mood][]=happy",
+      "email": "hulk@gmail.com"
+    },
+    {
+      "id": 10,
+      "username": "pranav",
+      "name": "lone wolf",
+      "phone": "98435848",
+      "website": "www.google.com",
+      "address": {
+        "street": "near school appartment",
+        "suite": "way to pochinki",
+        "city": "bangalore",
+        "zipcode": "622402"
+      },
+      "company": {
+        "name": "captain"
+      },
+      "avatar": "https://avatars.dicebear.com/v2/avataaars/pranav.svg?options[mood][]=happy",
+      "email": "groot@gmail.com"
+    }
+  ]
+}
